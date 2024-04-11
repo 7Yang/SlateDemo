@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"G:\\UnrealEngine\\SlateDemo\\Source\\UE5SlatePractice\\UE5SlatePractice.Build.cs",
+		"G:\\UnrealEngine\\SlateDemo\\Source\\UE5SlatePractice.Target.cs",
+		"G:\\UnrealEngine\\SlateDemo\\Source\\UE5SlatePracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

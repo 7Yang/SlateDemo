@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.3",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE5SlatePractice",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+  "Plugins": [
+    {
+      "Name": "ModelingToolsEditorMode",
+      "Enabled": true,
+      "TargetAllowList": [
+        "Editor"
+      ]
+    },
+
+    {
+      "Name": "CommonUI",
+      "Enabled": true
+    }
+  ]
+}

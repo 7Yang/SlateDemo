@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE5SlatePractice",
+			"Path": "..\\Source\\UE5SlatePractice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE5SlatePracticeEditor",
+			"Path": "..\\Source\\UE5SlatePracticeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

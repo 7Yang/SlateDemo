@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE5SlatePractice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE5SlatePractice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE5SlatePracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UE5SlatePractice">
+      <UniqueIdentifier>{0252DBDD-E5E9-3CB9-A1F1-6EBF480E7FB3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\SimpleSHUD.cpp">
+      <Filter>Source\UE5SlatePractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\SimpleSHUD.h">
+      <Filter>Source\UE5SlatePractice</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UE5SlatePractice\UE5SlatePractice.Build.cs">
+      <Filter>Source\UE5SlatePractice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\UE5SlatePractice.cpp">
+      <Filter>Source\UE5SlatePractice</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\UE5SlatePractice.h">
+      <Filter>Source\UE5SlatePractice</Filter>
+    </ClInclude>
+    <Filter Include="Source\UE5SlatePractice\Slates">
+      <UniqueIdentifier>{AB26408D-2E3F-35B7-9804-4FD75574DC31}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SColorGradingPicker.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SColorGradingPicker.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SColorPicker.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SColorPicker.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SColorThemes.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SColorThemes.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SColorValueSlider.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SEyeDropperButton.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SEyeDropperButton.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SLayoutExample.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SLayoutExample.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SPerfSuite.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SPerfSuite.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SStarshipGallery.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SStarshipGallery.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SStarshipSuite.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SStarshipSuite.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\STableViewTesting.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\STableViewTesting.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\STestSuite.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\STestSuite.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SUserWidgetTest.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SUserWidgetTest.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\SWidgetGallery.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\SWidgetGallery.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE5SlatePractice\Slates\TestStyle.cpp">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE5SlatePractice\Slates\TestStyle.h">
+      <Filter>Source\UE5SlatePractice\Slates</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
